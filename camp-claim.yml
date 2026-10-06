@@ -1,0 +1,9 @@
+# Organization claim manifest for camp-registry (AUTHORS.md "Claiming as an
+# organization"). The registry's sweep claims every listed plugin whose source
+# repository lives under this organization and re-applies edits here daily.
+maintainers:
+- github: davidpesce
+  name: David Pesce
+# Private vulnerability reporting on this repository (enabled with the repo).
+security-contact: https://github.com/camp-registry/camp-claim/security/advisories/new
+labels: [fully-free]
